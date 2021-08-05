@@ -52,3 +52,5 @@ class Fetch {
   const db = new Database(new LocalStorageClient())
   
   console.log(db.getData('rand'))
+
+  //asfassfafs
